@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f721944-be9f-41d6-96ac-f199ce9a27e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/youtube.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0_example/hello_world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0_example/mobius_surface.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_language_interpreters/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="6f721944-be9f-41d6-96ac-f199ce9a27e4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,7 +140,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737733629199</updated>
-      <workItem from="1737733630466" duration="2452000" />
+      <workItem from="1737733630466" duration="2498000" />
     </task>
     <servers />
   </component>
