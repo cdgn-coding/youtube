@@ -1,0 +1,10 @@
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <!-- Fondo del archivo -->
+    <path d="M4 2C2.89543 2 2 2.89543 2 4V20C2 21.1046 2.89543 22 4 22H20C21.1046 22 22 21.1046 22 20V7L17 2H4Z" fill="none" stroke="currentColor" stroke-width="1.5"/>
+    
+    <!-- Esquina doblada -->
+    <path d="M17 2V7H22L17 2Z" fill="none" stroke="currentColor" stroke-width="1.5"/>
+    
+    <!-- Texto .py -->
+    <text x="6" y="15" font-family="Arial" font-size="6" fill="currentColor">.py</text>
+</svg>
